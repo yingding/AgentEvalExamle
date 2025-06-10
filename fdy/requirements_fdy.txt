@@ -1,5 +1,5 @@
 azure-ai-projects==1.0.0b11
-azure-ai-agents==1.0.0
+azure-ai-agents==1.0.1
 azure-identity==1.23.0
 # https://pypi.org/project/azure-ai-evaluation/
 azure-ai-evaluation==1.8.0

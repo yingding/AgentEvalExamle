@@ -16,6 +16,7 @@
 * https://learn.microsoft.com/en-gb/azure/ai-foundry/concepts/observability?tabs=warning#risk-and-safety-metrics
 
 * Evaluate Azure AI agents https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/agent-evaluate-sdk
+* sample.jsonl works.
 
 ## A/B Experiment
 * https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/a-b-experimentation

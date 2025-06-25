@@ -15,5 +15,7 @@
 * https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/ai/azure-ai-projects/samples/evaluation/sample_agent_evaluations.py
 * https://learn.microsoft.com/en-gb/azure/ai-foundry/concepts/observability?tabs=warning#risk-and-safety-metrics
 
+* Evaluate Azure AI agents https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/agent-evaluate-sdk
 
-
+## A/B Experiment
+* https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/a-b-experimentation

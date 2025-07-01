@@ -20,3 +20,6 @@
 
 ## A/B Experiment
 * https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/a-b-experimentation
+
+## Red teaming
+* https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/ai/azure-ai-projects/samples/red_team/sample_red_team.py

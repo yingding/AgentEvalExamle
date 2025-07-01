@@ -24,6 +24,19 @@ Invoke-Expression "(Get-Command python).Source";
 deactivate
 ```
 
+## (optional) generate requirements.txt from venv
+```powershell
+& "python" -m pip freeze > requirements_$(Get-Date -Format "yyyy-MM-dd_HH-mm-ss").txt
+```
+
+```powershell
+$file1="requirements_2025-06-30_13-12-23.txt"
+$file2="requirements_2025-06-30_13-17-09.txt"
+$outfile="diffoutput.txt"
+Compare-Object (Get-Content $file1) (Get-Content $file2) -IgnoreCase | Out-File $outfile;
+
+```
+
 ## (Optional) remove all the packages
 For the venv python
 ```powershell

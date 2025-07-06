@@ -1,2 +1,5 @@
 **/06_AI_RedTeaming_no_sync.ipynb 
 .env_mcp
+.env_eastus2
+.env_uaenorth
+requirements_2025*.txt

@@ -23,3 +23,6 @@
 
 ## Red teaming
 * https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/ai/azure-ai-projects/samples/red_team/sample_red_team.py
+* https://devblogs.microsoft.com/foundry/ai-red-teaming-agent-preview/
+* Red teaming for hub only https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent
+

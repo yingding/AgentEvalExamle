@@ -3,6 +3,7 @@ azure-ai-projects==1.0.0b12
 # azure-ai-agents==1.0.1
 azure-ai-agents==1.1.0b4
 azure-ai-evaluation==1.9.0
+azure-ai-inference==1.0.0b9
 # azure-ai-agents==1.1.0b2
 azure-identity==1.23.0
 # https://pypi.org/project/azure-ai-evaluation/
@@ -22,5 +23,4 @@ pydantic==2.11.7
 # opentelemetry 
 opentelemetry-sdk==1.31.1
 # pin the version 1.6.10 due to breaking changes in 1.6.11 and wait for the next release
-azure-monitor-opentelemetry==1.6.10
-# azure-monitor-opentelemetry==1.6.11
+azure-monitor-opentelemetry==1.6.12

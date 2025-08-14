@@ -1,26 +1,24 @@
 # eval and red teaming in the project 
-azure-ai-projects==1.0.0b12
-# azure-ai-agents==1.0.1
-azure-ai-agents==1.1.0b4
-azure-ai-evaluation==1.9.0
+azure-ai-projects==1.1.0b2
+azure-ai-agents==1.2.0b2
+azure-ai-evaluation==1.10.0
 azure-ai-inference==1.0.0b9
-# azure-ai-agents==1.1.0b2
-azure-identity==1.23.0
+azure-identity==1.24.0
 # https://pypi.org/project/azure-ai-evaluation/
 # azure-ai-evaluation[redteam]==1.8.0
 # azure-ai-evaluation==1.8.0
 # gradio==5.31.0
-ipykernel==6.29.5
+ipykernel==6.30.1
 ipywidgets==8.1.7
 jupyter==1.1.1
-matplotlib==3.10.3
+matplotlib==3.10.5
 # pillow==11.2.1
-pillow==11.0.0
-python-dotenv==1.1.0
+pillow==11.3.0
+python-dotenv==1.1.1
 pydantic-settings==2.10.1
 pydantic==2.11.7
 
 # opentelemetry 
-opentelemetry-sdk==1.31.1
+opentelemetry-sdk==1.36.0
 # pin the version 1.6.10 due to breaking changes in 1.6.11 and wait for the next release
-azure-monitor-opentelemetry==1.6.12
+azure-monitor-opentelemetry==1.6.13
